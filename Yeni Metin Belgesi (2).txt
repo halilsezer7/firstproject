@@ -1,0 +1,15 @@
+ <img src="images/team2.jpg" alt="" />
+                        <h4>Rico Massimo</h4>
+                        <h5>Coder</h5>
+                        <ul class="top-social-icons">
+                            <li>
+                                <a class="twitter simptip-position-bottom simptip-movable" data-tooltip="twitter" href="#"> </a>
+                            </li>
+                            <li>
+                                <a class="facebook simptip-position-bottom simptip-movable" data-tooltip="Facebook" href="#"> </a>
+                            </li>
+                            <li>
+                                <a class="pin simptip-position-bottom simptip-movable" data-tooltip="pintrest" href="#"> </a>
+                            </li>
+                            <div class="clear"> </div>
+                        </ul>
